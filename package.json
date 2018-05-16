@@ -1,20 +1,22 @@
 {
-    "version": "2.1.9",
-    "name": "cordova-plugin-telerik-amazonaws",
-    "cordova_name": "Amazon-Aws",
-    "description": "Plugin for amazon aws",
-    "license": "MIT",
-    "repo": "https://github.com/lillogoal/Amazon-AWS",
-    "issue": "",
-    "keywords": [],
-    "platforms": [
-                  "android",
-                  "ios"
-                  ],
-    "engines": [
-                {
-                "name": "cordova",
-                "version": ">=3.5.0"
-                }
-                ]
+   "version":"1.0.1",
+   "name":"cordova-plugin-telerik-amazonaws",
+   "cordova_name":"Amazon-Aws",
+   "description":"Plugin for amazon aws",
+   "license":"MIT",
+   "repo":"https://github.com/lillogoal/Amazon-AWS",
+   "issue":"",
+   "keywords":[
+
+   ],
+   "platforms":[
+      "android",
+      "ios"
+   ],
+   "engines":[
+      {
+         "name":"cordova",
+         "version":">=3.5.0"
+      }
+   ]
 }
