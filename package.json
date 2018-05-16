@@ -1,22 +1,33 @@
 {
-   "version":"1.0.1",
-   "name":"cordova-plugin-telerik-amazonaws",
-   "cordova_name":"Amazon-Aws",
-   "description":"Plugin for amazon aws",
-   "license":"MIT",
-   "repo":"https://github.com/lillogoal/Amazon-AWS",
-   "issue":"",
-   "keywords":[
-
-   ],
-   "platforms":[
-      "android",
-      "ios"
-   ],
-   "engines":[
-      {
-         "name":"cordova",
-         "version":">=3.5.0"
-      }
-   ]
+    "name":"cordova-plugin-telerik-amazonaws",
+    "version":"1.0.1",
+    "description":"An Android Cordova plugin that allows users to display simple Toast messages at the bottom of the screen.",
+    "cordova":{
+        "id":"cordova-plugin-telerik-amazonaws",
+        "platforms":[
+                     "android",
+                     "ios"
+                     ]
+    },
+    "repository":{
+        "type":"git",
+        "url":"git+https://github.com/lillogoal/Amazon-AWS.git"
+    },
+    "keywords":[
+                "Amazon",
+                "AWS",
+                "console"
+                ],
+    "engines":[
+               {
+               "name":"cordova",
+               "version":">=3.0.0"
+               }
+               ],
+    "author":"StephenForte",
+    "license":"MIT",
+    "bugs":{
+        "url":"https://github.com/lillogoal/Amazon-AWS/issues"
+    },
+    "homepage":"https://github.com/lillogoal/Amazon-AWS"
 }
